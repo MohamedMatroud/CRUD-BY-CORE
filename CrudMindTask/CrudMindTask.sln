@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudMind", "CrudMind\CrudMind.csproj", "{E4BC7CF9-2510-49B0-BFBC-90239D3AA134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDApi", "CRUDApi\CRUDApi.csproj", "{327AE47C-4B31-4339-BFC2-AE9442758804}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{15B5B9CF-1EE3-4DAE-802E-B36D16F1D869}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4BC7CF9-2510-49B0-BFBC-90239D3AA134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4BC7CF9-2510-49B0-BFBC-90239D3AA134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4BC7CF9-2510-49B0-BFBC-90239D3AA134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4BC7CF9-2510-49B0-BFBC-90239D3AA134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327AE47C-4B31-4339-BFC2-AE9442758804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327AE47C-4B31-4339-BFC2-AE9442758804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327AE47C-4B31-4339-BFC2-AE9442758804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327AE47C-4B31-4339-BFC2-AE9442758804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BFF9294-B804-4106-A760-259B78E416A6}
+	EndGlobalSection
+EndGlobal
